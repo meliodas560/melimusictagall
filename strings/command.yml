@@ -60,7 +60,7 @@ DELSUDO_COMMAND : ["delmember"]
 SUDOUSERS_COMMAND : ["kiw"]
 
 #Broadcast 
-BROADCAST_COMMAND : ["bc"]
+BROADCAST_COMMAND : ["gikes"]
 
 #Blacklist chat
 BLACKLISTCHAT_COMMAND : ["blacklistchat"]
